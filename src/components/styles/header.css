@@ -1,0 +1,29 @@
+.headerContainer {
+    background-color: #1e3a8a;
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logoLink {
+    color: #fbbf24;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navMenu {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navLink {
+    color: #ffffff;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  
+  .navLink:hover {
+    color: #fbbf24;
+  }
+  
